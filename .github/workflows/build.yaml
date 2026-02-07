@@ -5,6 +5,10 @@ on:
       - feat/readme
   schedule:
     - cron: "0 4 * * *"
+
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
