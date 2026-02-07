@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1000" height="540"
+     font-family="Consolas, monospace"
+     font-size="16">
+
+<style>
+.key { fill: #ffa657; }
+.value { fill: #a5d6ff; }
+.cc { fill: #616e7f; }
+text { white-space: pre; }
+</style>
+
+<rect width="100%" height="100%" fill="#0d1117" rx="14"/>
+
+<!-- ASCII FACE -->
+<text x="20" y="40" fill="#c9d1d9">
+
+<tspan x="20" dy="0">        ███████████        </tspan>
+<tspan x="20" dy="20">     ███░░░░░░░░░███      </tspan>
+<tspan x="20" dy="20">    ██░  ░   ░  ░██      </tspan>
+<tspan x="20" dy="20">   ██░    ◕ ◕    ░██     </tspan>
+<tspan x="20" dy="20">   ██░      ▴      ░██    </tspan>
+<tspan x="20" dy="20">   ██░   \_____/   ░██   </tspan>
+<tspan x="20" dy="20">    ██░           ░██    </tspan>
+<tspan x="20" dy="20">     ███░░░░░░░░░███     </tspan>
+<tspan x="20" dy="20">        █████████        </tspan>
+
+<tspan x="20" dy="40">      minimal terminal</tspan>
+<tspan x="20" dy="20">      ascii portrait</tspan>
+
+</text>
+
+<!-- PROFILE INFO -->
+<text x="380" y="40" fill="#c9d1d9">
+
+<tspan x="380" dy="0">somya@terminal ———————————————————————————</tspan>
+
+<tspan x="380" dy="30" class="cc">. </tspan>
+<tspan class="key">Role</tspan>
+<tspan class="cc">: .............. </tspan>
+<tspan class="value">Security Engineer / Builder</tspan>
+
+<tspan x="380" dy="22" class="cc">. </tspan>
+<tspan class="key">Focus</tspan>
+<tspan class="cc">: ............. </tspan>
+<tspan class="value">AI + API Security</tspan>
+
+<tspan x="380" dy="22" class="cc">. </tspan>
+<tspan class="key">Tools</tspan>
+<tspan class="cc">: ............. </tspan>
+<tspan class="value">Go, Python, Kubernetes</tspan>
+
+<tspan x="380" dy="30">- Interests ———————————————————————</tspan>
+
+<tspan x="380" dy="22" class="cc">. </tspan>
+<tspan class="key">Areas</tspan>
+<tspan class="cc">: ............ </tspan>
+<tspan class="value">Model Security, Scanners</tspan>
+
+<tspan x="380" dy="22" class="cc">. </tspan>
+<tspan class="key">Projects</tspan>
+<tspan class="cc">: ......... </tspan>
+<tspan class="value">AI Security Tooling</tspan>
+
+<tspan x="380" dy="30">- Status ——————————————————————————</tspan>
+
+<tspan x="380" dy="22" class="cc">. </tspan>
+<tspan class="key">Mode</tspan>
+<tspan class="cc">: ............. </tspan>
+<tspan class="value">Building cool stuff ⚡</tspan>
+
+</text>
+
+</svg>
